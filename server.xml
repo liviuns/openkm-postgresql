@@ -59,7 +59,7 @@
           url="${jdbc.url}"/>
 
     <Resource name="mail/OpenKM" auth="Container" type="javax.mail.Session"
-              mail.smtp.host="localhost" mail.from="testing@openkm.com"/>
+              mail.smtp.host="mail.teamnet.ro" mail.from="openkm@teamnet.ro"/>
   </GlobalNamingResources>
 
   <!-- A "Service" is a collection of one or more "Connectors" that share

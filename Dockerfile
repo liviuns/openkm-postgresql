@@ -1,5 +1,5 @@
 FROM mcsaky/openkm
-MAINTAINER singh.fulda@gmail.com
+MAINTAINER liviu.spiroiu@teamnet.ro
  
 COPY  OpenKM.cfg /opt/openkm/OpenKM.cfg
 COPY  OpenKM.xml /opt/openkm/OpenKM.xml
